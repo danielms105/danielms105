@@ -1,8 +1,7 @@
-- 👋 Hi, Daniel this side! 
-- 🦜 Evaluation of projects, policies and programs
-- 🌱 I’m currently learning data science 
-- 📫 Reach me through: danielms105@gmail.com
-- 😄 Pronouns: He/Him
+👋 Hi, Daniel this side! 🦜 Evaluation of projects, policies and programs
+ I’m currently learning data science. In this repository I will share solved cases and portifolio 🪛
+ 📫 Reach me through: danielms105@gmail.com
+😄 Pronouns: He/Him
   
 
 <!---
